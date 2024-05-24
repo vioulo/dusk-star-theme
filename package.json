@@ -1,0 +1,42 @@
+{
+  "name": "dusk-star-theme",
+  "displayName": "dusk star theme",
+  "description": "A simple monokai color theme for vscode",
+  "version": "0.0.1",
+  "publisher": "tonyx",
+  "engines": {
+    "vscode": "*"
+  },
+  "icon": "./imgs/sun.png",
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "awesome"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "dusk--star-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/color.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "dusk-star-icon",
+        "label": "dusk-icon",
+        "path": "./themes/file-icon.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vioulo/dusk-star-theme.git"
+  },
+  "homepage": "https://github.com/vioulo/dusk-star-theme.git/main/README.md",
+  "license": "MIT"
+}

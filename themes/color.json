@@ -30,7 +30,8 @@
 			"name": "Built-in constant",
 			"scope": "constant.language",
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#AE81FF",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -40,7 +41,13 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#AE81FF"
+				"foreground": "#A8FDB3"
+			}
+		},
+		{
+			"scope": "constant.other.class",
+			"settings": {
+				"foreground": "#FD971F"
 			}
 		},
 		{
@@ -75,10 +82,10 @@
 		},
 		{
 			"name": "Class name",
-			"scope": "entity.name.class",
+			"scope": "entity.name.type.class",
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#A6E22E"
+				"foreground": "#2BE98A"
 			}
 		},
 		{
@@ -179,5 +186,5 @@
 		"editor.lineHighlightBackground": "#3E3D32",
 		"editor.selectionBackground": "#49483E"
 	},
-	"name": "mm-theme-mm"
+	"name": "dusk-star-theme"
 }

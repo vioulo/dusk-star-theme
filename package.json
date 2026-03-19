@@ -21,9 +21,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "dusk-star-theme",
+        "label": "Dusk star dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/color.json"
+        "path": "./themes/color-dark.json"
       },
       {
         "label": "Dusk star light",

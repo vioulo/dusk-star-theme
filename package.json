@@ -21,12 +21,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dusk star dark",
+        "label": "Dusk Star Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/color-dark.json"
       },
       {
-        "label": "Dusk star light",
+        "label": "Dusk Star Light",
         "uiTheme": "vs",
         "path": "./themes/color-light.json"
       }
@@ -34,7 +34,7 @@
     "iconThemes": [
       {
         "id": "dusk-star-icon",
-        "label": "dusk-icon",
+        "label": "Dusk Icon",
         "path": "./themes/file-icon.json"
       }
     ]

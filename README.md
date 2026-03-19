@@ -6,3 +6,6 @@ A simple monokai color theme for vscode
 
 #### Light
 <img src="./imgs/light-show.png">
+
+.note
+`bunx @vscode/vsce package --no-dependencies`

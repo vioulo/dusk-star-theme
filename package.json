@@ -24,6 +24,11 @@
         "label": "dusk-star-theme",
         "uiTheme": "vs-dark",
         "path": "./themes/color.json"
+      },
+      {
+        "label": "Dusk star light",
+        "uiTheme": "vs",
+        "path": "./themes/color-light.json"
       }
     ],
     "iconThemes": [

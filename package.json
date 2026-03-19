@@ -1,8 +1,8 @@
 {
   "name": "dusk-star-theme",
-  "displayName": "dusk star theme",
+  "displayName": "Dusk Star Theme",
   "description": "A simple monokai color theme for vscode",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "publisher": "tonyx",
   "engines": {
     "vscode": "*"

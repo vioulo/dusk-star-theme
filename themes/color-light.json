@@ -16,7 +16,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#9B6A00"
+        "foreground": "#76B987"
       }
     },
     {
@@ -54,7 +54,8 @@
       "name": "Variable",
       "scope": "variable",
       "settings": {
-        "fontStyle": ""
+        "fontStyle": "",
+        "foreground": "#2D465D"
       }
     },
     {
@@ -85,7 +86,7 @@
       "scope": "entity.name.type.class",
       "settings": {
         "fontStyle": "",
-        "foreground": "#2F7ABF"
+        "foreground": "#88B82B"
       }
     },
     {

@@ -102,7 +102,7 @@
       "scope": "entity.name.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "#2F7ABF"
+        "foreground": "#3269EC"
       }
     },
     {
@@ -193,6 +193,9 @@
     "editor.lineHighlightBackground": "#DCE7F566",
     "editor.selectionBackground": "#AFC9EA66",
     "editor.selectionHighlightBackground": "#C1D8F14D",
+    "editorLineNumber.foreground": "#B0B8C5",
+    "editorLineNumber.activeForeground": "#8F98A8",
+    "editorCodeLens.foreground": "#8F9BAC",
     "editorWhitespace.foreground": "#C3CFDE",
     "sideBar.background": "#EEF3FA",
     "sideBar.foreground": "#4D5A6E",
@@ -239,11 +242,13 @@
     "button.secondaryBackground": "#D7E3F4",
     "button.secondaryForeground": "#33465E",
     "button.secondaryHoverBackground": "#C9D8EE",
-    "list.hoverBackground": "#DCE8F7",
-    "list.activeSelectionBackground": "#CFE0F4",
-    "list.inactiveSelectionBackground": "#D8E5F4",
-    "list.focusBackground": "#CFE0F4",
-    "list.focusForeground": "#1F2D3D",
+    "list.hoverBackground": "#D1E1F4",
+    "list.activeSelectionBackground": "#ADC6E4",
+    "list.inactiveSelectionBackground": "#BDD2EA",
+    "list.focusBackground": "#ADC6E4",
+    "list.activeSelectionForeground": "#16273A",
+    "list.inactiveSelectionForeground": "#22364C",
+    "list.focusForeground": "#16273A",
     "gitDecoration.addedResourceForeground": "#4E8FDD",
     "gitDecoration.untrackedResourceForeground": "#4E8FDD",
     "gitDecoration.stageAddedResourceForeground": "#4E8FDD",

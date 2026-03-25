@@ -16,7 +16,7 @@
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#76B987"
+        "foreground": "#4F9E64"
       }
     },
     {
@@ -191,8 +191,18 @@
     "editor.foreground": "#2E3440",
     "editorCursor.foreground": "#2B3D55",
     "editor.lineHighlightBackground": "#DCE7F566",
-    "editor.selectionBackground": "#AFC9EA66",
-    "editor.selectionHighlightBackground": "#C1D8F14D",
+    "editor.selectionBackground": "#CFE0F44D",
+    "editor.inactiveSelectionBackground": "#DCE8F833",
+    "editor.selectionHighlightBackground": "#DCE8F833",
+    "editor.wordHighlightBackground": "#6265F633",
+    "editor.wordHighlightStrongBackground": "#AFC9EA4D",
+    "editor.wordHighlightTextBackground": "#CFE0F433",
+    "editor.findMatchBackground": "#BBD2F266",
+    "editor.findMatchHighlightBackground": "#D5E3F74D",
+    "editor.findRangeHighlightBackground": "#E6EEF933",
+    "editor.findMatchBorder": "#7EA5D8",
+    "editor.findMatchHighlightBorder": "#AFC6E4",
+    "searchEditor.findMatchBackground": "#BBD2F266",
     "editorLineNumber.foreground": "#B0B8C5",
     "editorLineNumber.activeForeground": "#8F98A8",
     "editorCodeLens.foreground": "#8F9BAC",

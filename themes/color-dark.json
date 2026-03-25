@@ -206,6 +206,8 @@
 			"activityBarBadge.foreground": "#222222",
 		"statusBar.background": "#222222",
 		"statusBar.foreground": "#F8F8F2",
+		"statusBar.noFolderBackground": "#222222",
+		"statusBar.noFolderForeground": "#F8F8F2",
 		"statusBar.border": "#2F2F2F",
 		"titleBar.activeBackground": "#222222",
 		"titleBar.inactiveBackground": "#222222",

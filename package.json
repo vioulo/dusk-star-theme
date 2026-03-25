@@ -2,7 +2,7 @@
   "name": "dusk-star-theme",
   "displayName": "Dusk Star Theme",
   "description": "A simple monokai color theme for vscode",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "tonyx",
   "engines": {
     "vscode": "*"
@@ -34,7 +34,7 @@
     "iconThemes": [
       {
         "id": "dusk-star-icon",
-        "label": "Dusk Icon",
+        "label": "Dusk Star",
         "path": "./themes/file-icon.json"
       }
     ]

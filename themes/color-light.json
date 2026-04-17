@@ -279,6 +279,7 @@
     "gitDecoration.ignoredResourceForeground": "#B08A00",
     "gitDecoration.renamedResourceForeground": "#5F9BDD",
     "gitDecoration.submoduleResourceForeground": "#4E8FDD",
+    "menu.border": "#D3DDEB",
     "menu.background": "#F8FAFD",
     "menu.foreground": "#2E3440",
     "menubar.selectionBackground": "#D5E3F6",

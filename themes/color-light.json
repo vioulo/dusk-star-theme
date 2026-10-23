@@ -10,14 +10,14 @@
       "name": "Comment",
       "scope": "comment",
       "settings": {
-        "foreground": "#8A93A5"
+        "foreground": "#677186"
       }
     },
     {
       "name": "String",
       "scope": "string",
       "settings": {
-        "foreground": "#4F9E64"
+        "foreground": "#3F7E50"
       }
     },
     {
@@ -42,7 +42,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#2F8F53"
+        "foreground": "#2A804A"
       }
     },
     {
@@ -87,7 +87,7 @@
       "scope": "entity.name.type.class",
       "settings": {
         "fontStyle": "",
-        "foreground": "#88B82B"
+        "foreground": "#5A7A1D"
       }
     },
     {
@@ -202,8 +202,8 @@
     "editor.findMatchBorder": "#7EA5D8",
     "editor.findMatchHighlightBorder": "#AFC6E4",
     "searchEditor.findMatchBackground": "#BBD2F266",
-    "editorLineNumber.foreground": "#B0B8C5",
-    "editorLineNumber.activeForeground": "#8F98A8",
+    "editorLineNumber.foreground": "#7F8B9E",
+    "editorLineNumber.activeForeground": "#5F6B7C",
     "editorCodeLens.foreground": "#8F9BAC",
     "editorWhitespace.foreground": "#C3CFDE",
     "editorGutter.addedBackground": "#4E8FDD",

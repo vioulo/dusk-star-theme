@@ -16,13 +16,15 @@
 - [x] `editorIndentGuide.activeBackground` → `editorIndentGuide.activeBackground1`
 - [x] `engines.vscode` 提升到 `^1.81.0`，同步 `package-lock.json`
 
-## 2. 图标主题
+## 2. 图标主题（配置与图标已完成，截图待补）
 
-- [ ] 处理 `themes/file-icon.json` 中 `iconPath` 为空的问题
-- [ ] 补充文件图标及 `fileNames`、`fileExtensions`、`languageIds`
-- [ ] 为亮色主题制作独立的高对比度文件夹图标
-- [ ] 复核 `hidesExplorerArrows: true` 的可发现性和无障碍影响
-- [ ] 在 README 中补充图标主题说明和截图，或暂时移除 `iconThemes` 贡献
+- [x] 处理 `themes/file-icon.json` 中 `iconPath` 为空的问题：移除空文件图标定义，保留纯文件夹图标主题
+- [x] 确认不提供文件图标，移除 `fileNames`、`fileExtensions`、`languageIds` 需求
+- [x] 为亮色主题制作独立的高对比度文件夹图标
+- [x] 设置 `hidesExplorerArrows: false`，恢复展开箭头
+- [x] 在 README 中补充图标主题说明（文字说明，截图待补）
+- [x] 修复文件夹 SVG 根节点 `transform` 导致图标完全透明的问题
+
 
 ## 3. 可读性
 
@@ -55,5 +57,5 @@
 - [ ] 更新 README：安装、主题列表、图标主题、配色表、许可证
 - [ ] 重拍过期的亮色/暗色截图，并补充 `alt` 文本
 - [ ] 清理未使用的 `imgs/PixPin_2024-05-24_09-45-54.png`
-- [ ] 补充 SVG 图标来源与许可说明
+- [x] 补充 SVG 图标来源与许可说明
 - [ ] 整理 package 元数据：keywords、description、publisher、bugs 等

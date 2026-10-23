@@ -35,6 +35,7 @@
       {
         "id": "dusk-star-icon",
         "label": "Dusk Star",
+        "description": "Folder-only icon theme for Dusk Star",
         "path": "./themes/file-icon.json"
       }
     ]

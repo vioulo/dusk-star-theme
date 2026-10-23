@@ -7,26 +7,18 @@
     "_dark_folder_open": {
       "iconPath": "../imgs/folder-open.svg"
     },
-    "_dark_file": {
-      "iconPath": ""
-    },
     "_light_folder": {
-      "iconPath": "../imgs/folder-close.svg"
+      "iconPath": "../imgs/folder-close-light.svg"
     },
     "_light_folder_open": {
-      "iconPath": "../imgs/folder-open.svg"
-    },
-    "_light_file": {
-      "iconPath": ""
+      "iconPath": "../imgs/folder-open-light.svg"
     }
   },
   "folder": "_dark_folder",
   "folderExpanded": "_dark_folder_open",
-  "file": "_dark_file",
   "light": {
     "folder": "_light_folder",
-    "folderExpanded": "_light_folder_open",
-    "file": "_light_file"
+    "folderExpanded": "_light_folder_open"
   },
-  "hidesExplorerArrows": true
+  "hidesExplorerArrows": false
 }

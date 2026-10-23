@@ -2,10 +2,14 @@
 
 本文件记录 Dusk Star Theme 的重要变更。
 
-## [Unreleased]
+## [0.2.0] - 2026-10-23
 
 ### Added
 
+- 增加主题 JSON、颜色 ID、透明度、对比度和包元数据校验脚本，并在 GitHub Actions 中运行。
+- 增加 `@vscode/vsce` 开发依赖和 `validate` / `package` / `publish` npm 脚本。
+- 增加 `.vscodeignore`、`.gitignore` 和 VSIX 打包 CI。
+- 增加 `scripts/vscode-color-registry.json` 颜色 ID 注册表快照及生成脚本。
 - 为暗色、亮色主题和图标主题补充 `$schema`，便于编辑器校验配置。
 - 亮色主题开启语义高亮，补充接口、枚举、属性、对象键、类型参数和 Markdown 等 token scope。
 - 暗色主题开启语义高亮，补充接口、枚举、属性、对象键、类型参数和 Markdown 等 token scope。
@@ -38,6 +42,11 @@
 
 ### Changed
 
+- 更新暗色/亮色主题截图，旧截图归档到 `imgs/archive/`，并从 VSIX 中排除。
+- 重写 README，补充安装、主题、图标主题、配色表、定制、开发和许可证说明。
+- 整理 package 元数据：description、keywords、galleryBanner、bugs、homepage。
+- 将文件夹箭头 SVG 替换为项目原创、MIT 许可的图标，移除 SVG Repo 来源注释。
+- 删除未使用的 `imgs/PixPin_2024-05-24_09-45-54.png`。
 - 将 `UPLOG.md` 迁移为标准 `CHANGELOG.md`。
 - 保留原有箭头样式文件夹图标，恢复隐藏资源管理器展开箭头。
 - 统一明暗主题的箭头色系：关闭为青绿色，展开为蓝色；暗色箭头加深，亮色箭头按反馈再次提亮。

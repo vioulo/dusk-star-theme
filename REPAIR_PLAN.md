@@ -16,7 +16,7 @@
 - [x] `editorIndentGuide.activeBackground` → `editorIndentGuide.activeBackground1`
 - [x] `engines.vscode` 提升到 `^1.81.0`，同步 `package-lock.json`
 
-## 2. 图标主题（配置与图标已完成，截图待补）
+## 2. 图标主题（配置、图标与截图已完成）
 
 - [x] 处理 `themes/file-icon.json` 中 `iconPath` 为空的问题：移除空文件图标定义，保留纯文件夹图标主题
 - [x] 确认不提供文件图标，移除 `fileNames`、`fileExtensions`、`languageIds` 需求
@@ -24,7 +24,7 @@
 - [x] 统一明暗主题的箭头色系：关闭青绿、展开蓝色，暗色加深、亮色再次提亮
 - [x] 移除亮色选中文件的高亮焦点描边
 - [x] 保留 `hidesExplorerArrows: true`，由箭头样式文件夹图标承担开合指示
-- [x] 在 README 中补充图标主题说明（文字说明，截图待补）
+- [x] 在 README 中补充图标主题说明
 - [x] 保留原有三角形箭头样式，仅调整亮色版本配色
 - [x] 确认原 SVG 的根节点 `transform` 在 Chromium/VS Code 中可正常渲染
 
@@ -63,11 +63,11 @@
 
 ## 6. 工程化与文档
 
-- [ ] 增加 `@vscode/vsce` 依赖和 `package` / `publish` 脚本
-- [ ] 增加 `.vscodeignore`、`.gitignore`
-- [ ] 增加 JSON、颜色 ID、对比度校验脚本和 CI
-- [ ] 更新 README：安装、主题列表、图标主题、配色表、许可证
-- [ ] 重拍过期的亮色/暗色截图，并补充 `alt` 文本
-- [ ] 清理未使用的 `imgs/PixPin_2024-05-24_09-45-54.png`
-- [ ] 补充 SVG 图标来源与许可说明（原始 SVG 来源/许可待确认）
-- [ ] 整理 package 元数据：keywords、description、publisher、bugs 等
+- [x] 增加 `@vscode/vsce` 依赖和 `package` / `publish` 脚本
+- [x] 增加 `.vscodeignore`、`.gitignore`
+- [x] 增加 JSON、颜色 ID、对比度校验脚本和 CI
+- [x] 更新 README：安装、主题列表、图标主题、配色表、许可证
+- [x] 更新亮色/暗色截图并补充 `alt` 文本（`imgs/020-*.png`，旧图归档到 `imgs/archive/`）
+- [x] 清理未使用的 `imgs/PixPin_2024-05-24_09-45-54.png`
+- [x] 补充 SVG 图标来源与许可说明（替换为项目原创 SVG，MIT）
+- [x] 整理 package 元数据：keywords、description、publisher、bugs 等

@@ -15,15 +15,15 @@
 - 将废弃的 `editorIndentGuide.background` / `editorIndentGuide.activeBackground` 迁移为 `editorIndentGuide.background1` / `editorIndentGuide.activeBackground1`。
 - 修正 `package.json` 中失效的 `homepage` 链接。
 - 将 `engines.vscode` 提升到 `^1.81.0`，与 `package-lock.json` 保持一致。
-- 修复文件夹图标 SVG 因根节点变换而完全透明的问题。
 - 移除图标主题中的空文件图标定义和 `file` 关联，图标主题只保留文件夹图标。
 - 为亮色主题新增独立的高对比度文件夹图标。
 
 ### Changed
 
 - 将 `UPLOG.md` 迁移为标准 `CHANGELOG.md`。
+- 保留原有三角形文件夹图标样式，仅调整亮色版本配色。
 - 图标主题不再隐藏资源管理器展开箭头。
-- README 补充文件夹图标主题说明和图标来源。
+- README 补充文件夹图标主题说明。
 
 ## [0.1.2] - 2026-04-17
 

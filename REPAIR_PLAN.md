@@ -23,7 +23,8 @@
 - [x] 为亮色主题制作独立的高对比度文件夹图标
 - [x] 设置 `hidesExplorerArrows: false`，恢复展开箭头
 - [x] 在 README 中补充图标主题说明（文字说明，截图待补）
-- [x] 修复文件夹 SVG 根节点 `transform` 导致图标完全透明的问题
+- [x] 保留原有三角形文件夹图标样式，仅调整亮色版本配色
+- [x] 确认原 SVG 的根节点 `transform` 在 Chromium/VS Code 中可正常渲染
 
 
 ## 3. 可读性
@@ -57,5 +58,5 @@
 - [ ] 更新 README：安装、主题列表、图标主题、配色表、许可证
 - [ ] 重拍过期的亮色/暗色截图，并补充 `alt` 文本
 - [ ] 清理未使用的 `imgs/PixPin_2024-05-24_09-45-54.png`
-- [x] 补充 SVG 图标来源与许可说明
+- [ ] 补充 SVG 图标来源与许可说明（原始 SVG 来源/许可待确认）
 - [ ] 整理 package 元数据：keywords、description、publisher、bugs 等

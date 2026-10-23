@@ -41,19 +41,20 @@
 
 ## 4. 语义高亮与 UI 覆盖
 
-- [ ] 开启 `semanticHighlighting`，补充 `semanticTokenColors`
-- [ ] 补充接口、枚举、属性、对象键、Markdown、diff 等 token scope
-- [ ] 收窄 `meta.function-call` 的染色范围
-- [ ] 补充高频 UI 颜色：panel、terminal、diffEditor、suggest/hover、notification、quickInput、dropdown、bracket 等
+- [x] 开启 `semanticHighlighting`，补充 `semanticTokenColors`（亮色已完成；暗色待处理）
+- [x] 补充接口、枚举、属性、对象键、Markdown、diff 等 token scope（亮色已完成；暗色待处理）
+- [x] 收窄 `meta.function-call` 的染色范围（亮色已完成；暗色待处理）
+- [x] 补充高频 UI 颜色：panel、terminal、diffEditor、suggest/hover、notification、quickInput、dropdown、bracket 等（亮色已完成；暗色待处理）
 
 ## 5. 状态色与高亮语义
 
-- [ ] 区分 Git added / modified / deleted 的颜色
-- [ ] 让亮色选区比“其他匹配项”更明显
-- [ ] 给 find match 使用区别于普通选区的颜色
+- [x] 区分 Git added / modified / deleted 的颜色（亮色已完成；暗色待处理）
+- [x] 让亮色选区比“其他匹配项”更明显
+- [x] 给 find match 使用区别于普通选区的颜色（亮色已完成；暗色待处理）
 - [x] 移除会触发 VS Code 颜色校验警告的不透明高亮背景色，回退到默认值
 - [x] 将亮色代码单词高亮改为蓝色系并增加描边
-- [ ] 梳理绿色语义，避免字符串、类名、常量、徽章、高亮同时使用绿色
+- [x] 移除亮色文件标签选中边框、焦点虚线和代码高亮选择的边框
+- [x] 梳理绿色语义，避免字符串、类名、常量、徽章、高亮同时使用绿色（亮色保留类名绿色，常量与徽章已改色；暗色待处理）
 
 ## 6. 工程化与文档
 

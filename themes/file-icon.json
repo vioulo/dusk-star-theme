@@ -20,5 +20,5 @@
     "folder": "_light_folder",
     "folderExpanded": "_light_folder_open"
   },
-  "hidesExplorerArrows": false
+  "hidesExplorerArrows": true
 }

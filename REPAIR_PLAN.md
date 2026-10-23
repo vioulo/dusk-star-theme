@@ -20,10 +20,10 @@
 
 - [x] 处理 `themes/file-icon.json` 中 `iconPath` 为空的问题：移除空文件图标定义，保留纯文件夹图标主题
 - [x] 确认不提供文件图标，移除 `fileNames`、`fileExtensions`、`languageIds` 需求
-- [x] 为亮色主题制作独立的高对比度文件夹图标
-- [x] 设置 `hidesExplorerArrows: false`，恢复展开箭头
+- [x] 为亮色主题制作独立的高对比度箭头图标，并加大开合颜色差异
+- [x] 保留 `hidesExplorerArrows: true`，由箭头样式文件夹图标承担开合指示
 - [x] 在 README 中补充图标主题说明（文字说明，截图待补）
-- [x] 保留原有三角形文件夹图标样式，仅调整亮色版本配色
+- [x] 保留原有三角形箭头样式，仅调整亮色版本配色
 - [x] 确认原 SVG 的根节点 `transform` 在 Chromium/VS Code 中可正常渲染
 
 

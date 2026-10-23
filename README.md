@@ -14,7 +14,7 @@ A simple monokai color theme for VS Code.
 
 ## File Icon Theme
 
-Dusk Star includes an optional folder-only file icon theme. It customizes folder icons only and does not define custom file icons.
+Dusk Star includes an optional folder-only file icon theme. It uses arrow-style folder icons and hides the native explorer arrows; it does not define custom file icons.
 
 1. Open the Command Palette (`Ctrl+Shift+P` / `Cmd+Shift+P`).
 2. Run `Preferences: File Icon Theme`.

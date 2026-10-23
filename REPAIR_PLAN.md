@@ -46,7 +46,8 @@
 - [x] 开启 `semanticHighlighting`，补充 `semanticTokenColors`（亮色、暗色已完成）
 - [x] 补充接口、枚举、属性、对象键、Markdown、diff 等 token scope（亮色、暗色已完成）
 - [x] 收窄 `meta.function-call` 的染色范围（亮色、暗色已完成）
-- [x] 补充高频 UI 颜色：panel、terminal、diffEditor、suggest/hover、notification、quickInput、dropdown、bracket 等（亮色已完成；暗色待处理）
+- [x] 补充高频 UI 颜色：panel、terminal、diffEditor、suggest/hover、notification、quickInput、dropdown、bracket 等（亮色、暗色已完成）
+- [x] 补充暗色 scrollbar、breadcrumb、status bar item、input validation、debug console、keybinding label 等控件配色
 
 ## 5. 状态色与高亮语义
 

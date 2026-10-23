@@ -49,7 +49,7 @@
 - [ ] 区分 Git added / modified / deleted 的颜色
 - [ ] 让亮色选区比“其他匹配项”更明显
 - [ ] 给 find match 使用区别于普通选区的颜色
-- [ ] 将 `editor.wordHighlightTextBackground` 改为半透明色
+- [x] 移除会触发 VS Code 颜色校验警告的不透明高亮背景色，回退到默认值
 - [ ] 梳理绿色语义，避免字符串、类名、常量、徽章、高亮同时使用绿色
 
 ## 6. 工程化与文档

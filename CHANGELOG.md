@@ -12,6 +12,7 @@
 
 - 删除无效颜色键 `editorGuide.background`。
 - 删除无效颜色键 `gitDecoration.stageAddedResourceForeground`。
+- 移除三处会触发 VS Code 颜色校验警告的不透明高亮背景色：暗色/亮色的 `editor.wordHighlightTextBackground`，以及亮色的 `editor.selectionHighlightBackground`。
 - 将废弃的 `editorIndentGuide.background` / `editorIndentGuide.activeBackground` 迁移为 `editorIndentGuide.background1` / `editorIndentGuide.activeBackground1`。
 - 修正 `package.json` 中失效的 `homepage` 链接。
 - 将 `engines.vscode` 提升到 `^1.81.0`，与 `package-lock.json` 保持一致。

@@ -14,6 +14,11 @@
 - 删除无效颜色键 `gitDecoration.stageAddedResourceForeground`。
 - 移除三处会触发 VS Code 颜色校验警告的不透明高亮背景色：暗色/亮色的 `editor.wordHighlightTextBackground`，以及亮色的 `editor.selectionHighlightBackground`。
 - 提升亮色主题中注释、字符串、类名、常量和行号的对比度。
+- 提升亮色主题活动栏徽章、按钮、调试状态栏和 Git added/modified/renamed 状态色的对比度。
+- 将亮色主题中 Git 忽略文件的状态色调淡为中性灰，避免与普通文件混淆。
+- 将亮色主题的代码单词高亮改为蓝色系，并增加蓝色描边以突出显示。
+- 调整亮色主题函数名、参数/类常量和 CodeLens 的颜色。
+- 将亮色主题的输入框焦点边框调整为更暗的蓝色（`focusBorder`）。
 - 将废弃的 `editorIndentGuide.background` / `editorIndentGuide.activeBackground` 迁移为 `editorIndentGuide.background1` / `editorIndentGuide.activeBackground1`。
 - 修正 `package.json` 中失效的 `homepage` 链接。
 - 将 `engines.vscode` 提升到 `^1.81.0`，与 `package-lock.json` 保持一致。

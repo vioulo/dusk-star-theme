@@ -48,7 +48,7 @@
     {
       "scope": "constant.other.class",
       "settings": {
-        "foreground": "#B85B00"
+        "foreground": "#A65300"
       }
     },
     {
@@ -103,7 +103,7 @@
       "scope": "entity.name.function",
       "settings": {
         "fontStyle": "",
-        "foreground": "#3269EC"
+        "foreground": "#2E66E8"
       }
     },
     {
@@ -118,7 +118,7 @@
       "scope": "variable.parameter",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#B85B00"
+        "foreground": "#A65300"
       }
     },
     {
@@ -194,8 +194,10 @@
     "editor.lineHighlightBackground": "#DCE7F566",
     "editor.selectionBackground": "#D7E9FF",
     "editor.inactiveSelectionBackground": "#DCE8F833",
-    "editor.wordHighlightBackground": "#6265F633",
-    "editor.wordHighlightStrongBackground": "#AFC9EA4D",
+    "editor.wordHighlightBackground": "#2F6FB51F",
+    "editor.wordHighlightStrongBackground": "#1F5FA826",
+    "editor.wordHighlightBorder": "#2F6FB5",
+    "editor.wordHighlightStrongBorder": "#1F5FA8",
     "editor.findMatchBackground": "#BBD2F266",
     "editor.findMatchHighlightBackground": "#D5E3F74D",
     "editor.findRangeHighlightBackground": "#E6EEF933",
@@ -204,12 +206,12 @@
     "searchEditor.findMatchBackground": "#BBD2F266",
     "editorLineNumber.foreground": "#7F8B9E",
     "editorLineNumber.activeForeground": "#5F6B7C",
-    "editorCodeLens.foreground": "#8F9BAC",
+    "editorCodeLens.foreground": "#657082",
     "editorWhitespace.foreground": "#C3CFDE",
-    "editorGutter.addedBackground": "#4E8FDD",
-    "editorGutter.modifiedBackground": "#4B98FD",
-    "editorOverviewRuler.addedForeground": "#4E8FDD",
-    "editorOverviewRuler.modifiedForeground": "#4B98FD",
+    "editorGutter.addedBackground": "#2F6FB5",
+    "editorGutter.modifiedBackground": "#2F5FA8",
+    "editorOverviewRuler.addedForeground": "#2F6FB5",
+    "editorOverviewRuler.modifiedForeground": "#2F5FA8",
     "editorIndentGuide.background1": "#CBD7E8",
     "editorIndentGuide.activeBackground1": "#8FB2DE",
     "editorGroupHeader.tabsBackground": "#DFE7F4",
@@ -227,13 +229,13 @@
     "statusBar.noFolderBackground": "#E9EFF8",
     "statusBar.noFolderForeground": "#3C506A",
     "statusBar.border": "#CED8E8",
-    "statusBar.debuggingBackground": "#D95B8E",
+    "statusBar.debuggingBackground": "#C43E73",
     "statusBar.debuggingForeground": "#FFFFFF",
 
     "activityBar.background": "#E9EFF8",
     "activityBar.foreground": "#425670",
     "activityBar.border": "#CED8E8",
-    "activityBarBadge.background": "#53B56D",
+    "activityBarBadge.background": "#2F7F4F",
     "activityBarBadge.foreground": "#FFFFFF",
     "titleBar.activeBackground": "#E9EFF8",
     "titleBar.inactiveBackground": "#E3EAF5",
@@ -244,7 +246,7 @@
     "tab.activeForeground": "#1F2D3D",
     "tab.activeBorderTop": "#6FA3E5",
     "tab.activeBorder": "#F7FAFF",
-    "tab.activeModifiedBorder": "#4B98FD",
+    "tab.activeModifiedBorder": "#2F5FA8",
     "tab.inactiveBackground": "#E3EAF5",
     "tab.inactiveForeground": "#5E6D83",
     "tab.hoverBackground": "#EAF1FB",
@@ -256,9 +258,10 @@
     "input.background": "#FFFFFF",
     "input.foreground": "#2E3440",
     "input.border": "#A8BAD2",
-    "button.background": "#3F7FC6",
+    "focusBorder": "#2F6FB5",
+    "button.background": "#3475BC",
     "button.foreground": "#F6FAFF",
-    "button.hoverBackground": "#4B8CD4",
+    "button.hoverBackground": "#2F6FB5",
     "button.secondaryBackground": "#D7E3F4",
     "button.secondaryForeground": "#33465E",
     "button.secondaryHoverBackground": "#C9D8EE",
@@ -272,13 +275,13 @@
     "list.focusOutline": "#00000000",
     "list.focusAndSelectionOutline": "#00000000",
     "list.inactiveFocusOutline": "#00000000",
-    "gitDecoration.addedResourceForeground": "#4E8FDD",
-    "gitDecoration.untrackedResourceForeground": "#4E8FDD",
-    "gitDecoration.stageModifiedResourceForeground": "#4B98FD",
-    "gitDecoration.modifiedResourceForeground": "#4B98FD",
-    "gitDecoration.ignoredResourceForeground": "#B08A00",
-    "gitDecoration.renamedResourceForeground": "#5F9BDD",
-    "gitDecoration.submoduleResourceForeground": "#4E8FDD",
+    "gitDecoration.addedResourceForeground": "#2F6FB5",
+    "gitDecoration.untrackedResourceForeground": "#2F6FB5",
+    "gitDecoration.stageModifiedResourceForeground": "#2F5FA8",
+    "gitDecoration.modifiedResourceForeground": "#2F5FA8",
+    "gitDecoration.ignoredResourceForeground": "#8A8A8D",
+    "gitDecoration.renamedResourceForeground": "#3F6FB5",
+    "gitDecoration.submoduleResourceForeground": "#2F6FB5",
     "menu.border": "#D3DDEB",
     "menu.background": "#F8FAFD",
     "menu.foreground": "#2E3440",

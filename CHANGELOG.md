@@ -16,6 +16,7 @@
 - 删除无效颜色键 `gitDecoration.stageAddedResourceForeground`。
 - 移除三处会触发 VS Code 颜色校验警告的不透明高亮背景色：暗色/亮色的 `editor.wordHighlightTextBackground`，以及亮色的 `editor.selectionHighlightBackground`。
 - 提升亮色主题中注释、字符串、类名、常量和行号的对比度。
+- 提升暗色主题中注释、关键字、当前行号、Git 忽略文件、按钮和调试状态栏的对比度。
 - 提升亮色主题活动栏徽章、按钮、调试状态栏和 Git added/modified/renamed 状态色的对比度。
 - 将亮色主题中 Git 忽略文件的状态色调淡为中性灰，避免与普通文件混淆。
 - 将亮色主题的代码单词高亮改为蓝色系，并增加蓝色描边以突出显示。

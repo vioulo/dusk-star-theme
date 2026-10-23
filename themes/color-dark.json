@@ -10,7 +10,7 @@
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
-				"foreground": "#75715E"
+				"foreground": "#918C7F"
 			}
 		},
 		{
@@ -62,7 +62,7 @@
 			"name": "Keyword",
 			"scope": "keyword",
 			"settings": {
-				"foreground": "#F92672"
+				"foreground": "#FF4D82"
 			}
 		},
 		{
@@ -70,7 +70,7 @@
 			"scope": "storage",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#FF4D82"
 			}
 		},
 		{
@@ -125,7 +125,7 @@
 			"scope": "entity.name.tag",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#F92672"
+				"foreground": "#FF4D82"
 			}
 		},
 		{
@@ -203,7 +203,7 @@
 		"editor.findMatchHighlightBorder": "#6E94C0",
 		"searchEditor.findMatchBackground": "#4B98FD66",
 		"editorLineNumber.foreground": "#939393",
-    	"editorLineNumber.activeForeground": "#166EDF",
+		"editorLineNumber.activeForeground": "#7FB4FF",
 		"editorWhitespace.foreground": "#3A4B63",
 		"editorGutter.addedBackground": "#7FB4FF",
 		"editorGutter.modifiedBackground": "#4B98FD",
@@ -225,7 +225,7 @@
 		"statusBar.noFolderBackground": "#222222",
 		"statusBar.noFolderForeground": "#F8F8F2",
 		"statusBar.border": "#2F2F2F",
-		"statusBar.debuggingBackground": "#F92672",
+		"statusBar.debuggingBackground": "#C2185B",
 		"statusBar.debuggingForeground": "#F8F8F0",
 
 		"activityBar.background": "#222222",
@@ -254,9 +254,9 @@
 		"input.background": "#262626",
 		"input.foreground": "#F8F8F2",
 		"input.border": "#3E4F66",
-		"button.background": "#4F8FD7",
+		"button.background": "#2F6FB5",
 		"button.foreground": "#F5FAFF",
-		"button.hoverBackground": "#5E9DE3",
+		"button.hoverBackground": "#3475BC",
 		"button.secondaryBackground": "#365D87",
 		"button.secondaryForeground": "#EAF3FF",
 		"button.secondaryHoverBackground": "#4170A1",
@@ -269,7 +269,7 @@
 		"gitDecoration.untrackedResourceForeground": "#7FB4FF",
 		"gitDecoration.stageModifiedResourceForeground": "#4B98FD",
 		"gitDecoration.modifiedResourceForeground": "#4B98FD",
-		"gitDecoration.ignoredResourceForeground": "#334052",
+		"gitDecoration.ignoredResourceForeground": "#6E7681",
 		"gitDecoration.renamedResourceForeground": "#99C4FF",
 		"gitDecoration.submoduleResourceForeground": "#7FB4FF",
     	"menu.border": "#2F2F2F",

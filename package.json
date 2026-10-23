@@ -5,7 +5,7 @@
   "version": "0.1.2",
   "publisher": "tonyx",
   "engines": {
-    "vscode": "*"
+    "vscode": "^1.81.0"
   },
   "icon": "./imgs/sun.png",
   "categories": [
@@ -43,6 +43,6 @@
     "type": "git",
     "url": "https://github.com/vioulo/dusk-star-theme.git"
   },
-  "homepage": "https://github.com/vioulo/dusk-star-theme.git/main/README.md",
+  "homepage": "https://github.com/vioulo/dusk-star-theme/blob/main/README.md",
   "license": "MIT"
 }

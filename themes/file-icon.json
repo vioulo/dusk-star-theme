@@ -1,4 +1,5 @@
 {
+  "$schema": "vscode://schemas/icon-theme",
   "iconDefinitions": {
     "_dark_folder": {
       "iconPath": "../imgs/folder-close.svg"

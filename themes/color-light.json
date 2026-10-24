@@ -231,7 +231,7 @@
       "scope": "entity.other.attribute-name",
       "settings": {
         "fontStyle": "",
-        "foreground": "#2F7ABF"
+        "foreground": "#2D72B2"
       }
     },
     {
@@ -405,7 +405,7 @@
     "editor.findMatchBackground": "#F2C14E99",
     "editor.findMatchForeground": "#10243B",
     "editor.findMatchHighlightBackground": "#F6D98A66",
-    "editor.findMatchHighlightForeground": "#10243B",
+    "editor.findMatchHighlightForeground": "#10243BE6",
     "editor.findRangeHighlightBackground": "#2F6FB50D",
     "editor.findMatchBorder": "#A66A00",
     "editor.findMatchHighlightBorder": "#C49A3A",

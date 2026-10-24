@@ -792,7 +792,7 @@ def main() -> int:
         None,
         None,
         fail,
-        False,
+        True,
     )
 
     if dark and light:

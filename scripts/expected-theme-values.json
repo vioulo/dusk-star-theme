@@ -268,7 +268,7 @@
     "editor.findMatchBackground": "#F2C14E99",
     "editor.findMatchForeground": "#10243B",
     "editor.findMatchHighlightBackground": "#F6D98A66",
-    "editor.findMatchHighlightForeground": "#10243B",
+    "editor.findMatchHighlightForeground": "#10243BE6",
     "editor.foreground": "#2E3440",
     "editor.lineHighlightBackground": "#DCE7F566",
     "editor.selectionBackground": "#B9D3F0",

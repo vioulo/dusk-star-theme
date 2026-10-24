@@ -151,7 +151,7 @@ Build a VSIX:
 npm run package
 ```
 
-The generated `dusk-star-theme-0.2.0.vsix` is written to the repository root.
+The generated `dusk-star-theme-x.x.x.vsix` is written to the repository root.
 
 Publishing is intended for maintainers and requires a Marketplace personal
 access token:

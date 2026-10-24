@@ -550,6 +550,7 @@
     "editorWidget.foreground": "#2E3440",
     "editorWidget.border": "#C6D3E6",
     "editorWidget.resizeBorder": "#2F6FB5",
+    "git.blame.editorDecorationForeground": "#7F8B9E",
     "editorSuggestWidget.background": "#F8FAFD",
     "editorSuggestWidget.foreground": "#2E3440",
     "editorSuggestWidget.border": "#C6D3E6",

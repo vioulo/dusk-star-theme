@@ -30,7 +30,7 @@ EXPECTED_PATH = Path(__file__).with_name("expected-theme-values.json")
 REGISTRY_PATH = Path(__file__).with_name("vscode-color-registry.json")
 
 HEX_RE = re.compile(r"^#[0-9A-Fa-f]{3,4}$|^#[0-9A-Fa-f]{6}(?:[0-9A-Fa-f]{2})?$")
-DARK_ONLY_ALLOWED = {"searchEditor.findMatchBorder", "git.blame.editorDecorationForeground"}
+DARK_ONLY_ALLOWED = {"searchEditor.findMatchBorder"}
 
 SEARCH_SYNTAX_COLORS = {
     "foreground": "#F8F8F2",
@@ -115,6 +115,7 @@ for _name, _fg in SEARCH_SYNTAX_COLORS.items():
 LIGHT_CONTRAST_PAIRS = [
     {"label": "light editor foreground", "fg": "editor.foreground", "bg": "editor.background", "min": 4.5},
     {"label": "light line number", "fg": "editorLineNumber.foreground", "bg": "editor.background", "min": 3.0},
+    {"label": "light blame", "fg": "git.blame.editorDecorationForeground", "bg": "editor.background", "min": 3.0},
     {"label": "light selection", "fg": "editor.selectionForeground", "bg": "editor.selectionBackground", "min": 4.5},
     {"label": "light find match", "fg": "editor.findMatchForeground", "bg": "editor.findMatchBackground", "min": 4.5},
     {"label": "light find highlight", "fg": "editor.findMatchHighlightForeground", "bg": "editor.findMatchHighlightBackground", "min": 4.5},

@@ -270,6 +270,7 @@
     "editor.findMatchHighlightBackground": "#F6D98A66",
     "editor.findMatchHighlightForeground": "#10243BE6",
     "editor.foreground": "#2E3440",
+    "git.blame.editorDecorationForeground": "#7F8B9E",
     "editor.lineHighlightBackground": "#DCE7F566",
     "editor.selectionBackground": "#B9D3F0",
     "editor.selectionForeground": "#10243B",

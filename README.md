@@ -39,7 +39,7 @@ code --install-extension tonyx.dusk-star-theme
 ### From a VSIX
 
 ```bash
-code --install-extension dusk-star-theme-0.2.0.vsix
+code --install-extension dusk-star-theme-<version>.vsix
 ```
 
 ## Activate the Theme

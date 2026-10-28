@@ -3,7 +3,8 @@
     "activityBar.activeBackground": "#00000000",
     "activityBar.activeBorder": "#7FB4FF",
     "activityBar.activeFocusBorder": "#7FB4FF",
-    "activityBar.inactiveForeground": "#8A8A8A",
+    "activityBar.foreground": "#BFC9D8",
+    "activityBar.inactiveForeground": "#7F8B9E",
     "activityBarBadge.background": "#7FB4FF",
     "badge.background": "#7FB4FF",
     "badge.foreground": "#222222",
@@ -258,6 +259,7 @@
     "widget.shadow": "#00000080"
   },
   "light": {
+    "activityBar.foreground": "#2F4F7A",
     "activityBarBadge.background": "#2F6FB5",
     "badge.background": "#2F6FB5",
     "button.background": "#3475BC",

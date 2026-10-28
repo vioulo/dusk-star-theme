@@ -565,7 +565,7 @@
 		"activityBar.foreground": "#F8F8F2",
 		"activityBar.border": "#2F2F2F",
 		"activityBar.activeBorder": "#7FB4FF",
-		"activityBar.activeBackground": "#2A456866",
+		"activityBar.activeBackground": "#00000000",
 		"activityBar.activeFocusBorder": "#7FB4FF",
 		"activityBar.inactiveForeground": "#8A8A8A",
 		"activityBarBadge.background": "#7FB4FF",
@@ -597,7 +597,7 @@
 		"button.secondaryBackground": "#365D87",
 		"button.secondaryForeground": "#EAF3FF",
 		"button.secondaryHoverBackground": "#4170A1",
-		"list.hoverBackground": "#2A456866",
+		"list.hoverBackground": "#FFFFFF0A",
 		"list.activeSelectionBackground": "#31527777",
 		"list.activeSelectionForeground": "#EAF3FF",
 		"list.inactiveSelectionBackground": "#2B496C66",
@@ -698,9 +698,7 @@
 		"descriptionForeground": "#918C7F",
 		"errorForeground": "#FF6B6B",
 		"icon.foreground": "#F8F8F2",
-		"sash.hoverBorder": "#7FB4FF",
-		"toolbar.hoverBackground": "#2F2F2F",
-		"toolbar.activeBackground": "#31527777"
+		"sash.hoverBorder": "#7FB4FF"
 	},
 	"name": "dusk-star-theme"
 }

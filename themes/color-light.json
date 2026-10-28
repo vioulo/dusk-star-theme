@@ -473,7 +473,7 @@
     "button.secondaryBackground": "#D7E3F4",
     "button.secondaryForeground": "#33465E",
     "button.secondaryHoverBackground": "#C9D8EE",
-    "list.hoverBackground": "#D1E1F4",
+    "list.hoverBackground": "#0000000F",
     "list.activeSelectionBackground": "#ADC6E4",
     "list.inactiveSelectionBackground": "#BDD2EA",
     "list.focusBackground": "#ADC6E4",
@@ -650,7 +650,7 @@
     "breadcrumb.activeSelectionForeground": "#2F6FB5",
     "breadcrumbPicker.background": "#F8FAFD",
     "activityBar.activeBorder": "#2F6FB5",
-    "activityBar.activeBackground": "#DCE7F5",
+    "activityBar.activeBackground": "#00000000",
     "activityBar.activeFocusBorder": "#2F6FB5",
     "activityBar.inactiveForeground": "#6B7A8F",
     "statusBarItem.hoverBackground": "#DCE7F5",
@@ -710,9 +710,7 @@
     "descriptionForeground": "#677186",
     "errorForeground": "#C62828",
     "icon.foreground": "#425670",
-    "sash.hoverBorder": "#2F6FB5",
-    "toolbar.hoverBackground": "#DCE7F5",
-    "toolbar.activeBackground": "#ADC6E4"
+    "sash.hoverBorder": "#2F6FB5"
   },
   "name": "dusk-star-theme-light"
 }

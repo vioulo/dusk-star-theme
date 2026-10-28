@@ -1,6 +1,6 @@
 {
   "dark": {
-    "activityBar.activeBackground": "#2A456866",
+    "activityBar.activeBackground": "#00000000",
     "activityBar.activeBorder": "#7FB4FF",
     "activityBar.activeFocusBorder": "#7FB4FF",
     "activityBar.inactiveForeground": "#8A8A8A",
@@ -154,6 +154,7 @@
     "keybindingLabel.border": "#3E4F66",
     "keybindingLabel.bottomBorder": "#4A6890",
     "keybindingLabel.foreground": "#F8F8F2",
+    "list.hoverBackground": "#FFFFFF0A",
     "list.activeSelectionForeground": "#EAF3FF",
     "list.focusAndSelectionOutline": "#00000000",
     "list.focusOutline": "#00000000",
@@ -253,8 +254,6 @@
     "terminalCursor.foreground": "#F8F8F0",
     "textLink.activeForeground": "#99C4FF",
     "textLink.foreground": "#7FB4FF",
-    "toolbar.activeBackground": "#31527777",
-    "toolbar.hoverBackground": "#2F2F2F",
     "widget.border": "#3E4F66",
     "widget.shadow": "#00000080"
   },
@@ -281,6 +280,7 @@
     "gitDecoration.deletedResourceForeground": "#A31515",
     "gitDecoration.modifiedResourceForeground": "#7A3E00",
     "gitDecoration.renamedResourceForeground": "#4B2E9E",
+    "list.hoverBackground": "#0000000F",
     "sideBar.background": "#EEF3FA",
     "sideBar.foreground": "#4D5A6E",
     "sideBarTitle.foreground": "#2F4F7A",

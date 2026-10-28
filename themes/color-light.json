@@ -413,7 +413,7 @@
     "editorLineNumber.foreground": "#7F8B9E",
     "editorLineNumber.activeForeground": "#5F6B7C",
     "editorCodeLens.foreground": "#657082",
-    "editorWhitespace.foreground": "#C3CFDE",
+    "editorWhitespace.foreground": "#91A4BE",
     "editorGutter.addedBackground": "#2F6FB5",
     "editorGutter.modifiedBackground": "#A65300",
     "editorGutter.deletedBackground": "#C62828",

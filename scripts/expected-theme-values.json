@@ -275,6 +275,7 @@
     "editor.lineHighlightBackground": "#DCE7F566",
     "editor.selectionBackground": "#B9D3F0",
     "editor.selectionForeground": "#10243B",
+    "editorWhitespace.foreground": "#91A4BE",
     "editorLineNumber.activeForeground": "#5F6B7C",
     "editorLineNumber.foreground": "#7F8B9E",
     "gitDecoration.addedResourceForeground": "#1F5FA8",
